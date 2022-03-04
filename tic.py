@@ -5,7 +5,7 @@ import array
 root=Tk() #a window or GUI is created associated with root
 root.title('Tic Tac Toe Game')  #title of the window
 
-"""root.iconbitmap('/Users/saketdhakar/Desktop/straw_hat.ico')""" #sets a icon to the root window
+
 turn=True
 cnt=0
 arr=[[0,1,2],[3,4,5],[6,7,8],[0,3,6],[1,4,7],[2,5,8],[0,4,8],[2,4,6]]
